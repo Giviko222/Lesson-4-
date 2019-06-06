@@ -1,0 +1,95 @@
+body {
+	padding: 30px;
+}
+
+.logo img{
+	width: 100px;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 50px;
+}
+.navbar{
+	display: inline-block;
+	margin-bottom: 30px;
+}
+.navbar-li{
+	display: inline-block;
+	margin-right: 35px;
+}
+.navbar-a{
+	font-size: 22px;
+	color: #3D58A6;
+	font-weight: bold;
+}
+.navbar-a span{
+	color: #EE4036;
+
+}
+
+.navbar-ak {
+	font-size: 22px;
+	color: #3D58A6;
+	margin-left: 50px;
+	font-weight: bold;
+}
+
+.box{
+	background-color: 
+}
+
+
+.h1 {
+	font-size: 20px;
+	color: #3D58A6;
+	font-weight: bold;
+}
+
+.chamonatvali {
+	font-size: 16px;
+	color: black;
+
+}
+.box {
+    
+    padding-top: 60px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.mapouter{
+	display: inline-block;
+	
+	margin-top: 60px;
+	margin-left: 90px;
+
+
+
+}
+
+
+.fb {
+	height: 30px;
+	display: inline-block;
+	margin-right: 30px;
+}
+.yu {
+	height: 30px;
+	display: inline-block;
+	margin-left: 30px;
+}
+.line {
+	height: 30px;
+	display: inline-block;
+}
+
+.mtavaribox {
+	background: #CECECE;
+	height: 570px;
+	width: 100%;
+}
+
+.logos {
+	margin-top: 80px;
+}
